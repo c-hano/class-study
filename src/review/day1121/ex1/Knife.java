@@ -1,4 +1,4 @@
-package review.day1121;
+package review.day1121.ex1;
 
 public class Knife extends Weapon {
 
